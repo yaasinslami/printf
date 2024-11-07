@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/my_drive/Projects/Alx/printf",
+      "program": "/Volumes/my_drive/Projects/Alx/printf/build/Debug/outDebug"
+    }
+  ]
+}
